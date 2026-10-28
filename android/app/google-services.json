@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "68825492304",
+    "project_id": "autosched-ai-f2a1f",
+    "storage_bucket": "autosched-ai-f2a1f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68825492304:android:9808e89f1a81d77ec19a55",
+        "android_client_info": {
+          "package_name": "com.example.auto_sched_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3p0pQwFa__nsEM6OoZ76tzjusR-vYM18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
